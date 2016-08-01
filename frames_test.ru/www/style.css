@@ -1,0 +1,67 @@
+.on {
+    background-color: #F5F6CE;
+}
+
+.imgBlock{
+  float: left;
+  margin-right: 20px;
+}
+
+.descriptionBlock
+{
+  text-align: center;
+  margin-left: 112px;
+}
+
+li{
+	list-style-type: none;
+	margin-bottom: 5px;
+}
+
+ul{
+	margin-left: -40px;
+}
+
+.content{
+ height: 110px;
+ border: 1px solid black;
+ margin-bottom: 10px;
+ padding: 2px;
+}
+
+.img{
+  width: 110px;
+  height: 110px;
+}
+
+.h{
+  font-size: 14pt;
+}
+
+.pp{
+  text-align: center;
+ border: 1px solid black; 
+}
+
+.exContent{
+	border: 1px solid black; 
+	padding: 2px;
+}
+
+.label{
+	float: left;
+}
+
+.labelInput{
+	float: left;
+	margin-right: 15px;
+}
+
+input{
+	width: 50px;
+}
+
+#cancelBtn{
+	float: right;
+	width: 120px;
+}
